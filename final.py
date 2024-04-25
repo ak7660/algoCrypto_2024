@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 from AlgoAPI import AlgoAPIUtil, AlgoAPI_Livetest
 from datetime import datetime, timedelta
 import talib
