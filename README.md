@@ -1,4 +1,4 @@
-# algoCrypto_2024
+# EMA and MACD Hybrid high-frequency algorithmic strategy for BTCUSD
 
 This project was developed as part of my participation in the AlgoGene platform's trading competition, specifically within the cryptocurrency stream as a member of Team G.
 
