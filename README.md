@@ -17,7 +17,7 @@ Despite the limited time of deployment in the live market, our algorithm quickly
 This repository includes all the code related to the project. You will also find screenshots from the AlgoGene platform, showcasing the results of both backtests and live tests. For the live test, the algorithm was allowed to run until the end of March, achieving an impressive live return of approximately 800%.
 
 ## Trading Strategy
-Thisscript implements a cryptocurrency trading strategy using BTCUSD (Bitcoin) only, utilizing multiple technical analysis indicators to drive trading decisions. Here's a brief overview of the trading logic:
+This script implements a cryptocurrency trading strategy using BTCUSD (Bitcoin), utilizing multiple technical analysis indicators to drive trading decisions. Here's a brief overview of the trading logic:
 
 ### Parameters Used
 Initial Capital: 100000 USD
