@@ -37,6 +37,5 @@ Sell Signal: When the MACD line crosses below the signal line and the price is b
 Feel free to explore the repository and reach out if you have any questions or suggestions!
 
 
-
-![](poptart1redrainbowfix_1.gif)
+![](bitcoin-cheers.gif)
 
